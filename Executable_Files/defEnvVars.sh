@@ -1,0 +1,5 @@
+export FPROMOTERS="../Text_Files/promotors.txt"
+export FUSERS="../Text_Files/users.txt"
+export FITEMS="../Text_Files/items.txt"
+export FITIME="../Text_Files/time.txt"
+export HEARTBEAT="5"

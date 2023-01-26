@@ -1,0 +1,9 @@
+0 batatas consumiveis 10 60 400 Joao -
+1 cebolas consumiveis 15 70 300 Arlindo -
+2 alface consumiveis 7 80 500 Joao -
+3 trigo alimentacao 20 120 200 Maria -
+4 aveia alimentacao 19 140 300 Joao -
+5 milho alimentacao 12 110 900 Arlindo -
+6 nokia-3310 telemoveis 400 1500 300 Joao -
+7 tamagoshi telemoveis 250 1250 600 Maria -
+8 tenis desporto 400 1700 700 Maria -
